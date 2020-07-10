@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DeletarUsuario/DeletarUsuario/bin/Debug
+/DeletarUsuario/DeletarUsuario/obj/Debug
+/DeletarUsuario/DeletarUsuario/Properties
+/DeletarUsuario/packages/System.Management.Automation.dll.10.0.10586.0/lib/net40
+/DeletarUsuario/packages/System.Management.Automation.dll.10.0.10586.0/.signature.p7s
+*.nupkg
+/DeletarUsuario/packages/Newtonsoft.Json.12.0.2/lib
+/DeletarUsuario/packages/Newtonsoft.Json.12.0.2/.signature.p7s
+*.md
+/DeletarUsuario/.vs/DeletarUsuario/v14/.suo
+
+*.[dD][lL][lL]
